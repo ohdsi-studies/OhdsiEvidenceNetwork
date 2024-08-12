@@ -10,7 +10,7 @@
 # !!! PLEASE RESTART R AFTER RUNNING renv::restore() !!!
 #
 # -------------------------------------------------------
-renv::restore()
+# renv::restore()
 
 # Turn off the connection pane to speed up run time
 options(connectionObserver = NULL)
