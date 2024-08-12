@@ -4,7 +4,7 @@
 zipFileName <- '[location of the zip file: e.g. /Documents/synthea/20220329/DbProfileResults.zip]'
 # For uploading the results. You should have received the key file from the study coordinator:
 keyFileName <- "[location where you are storing: e.g. ~/keys/study-data-site-covid19.dat]"
-userName <- "[user name provided by the study coordinator: eg: study-data-site-covid19]"
+userName <- "data-site-datadiag"
 
 ##=========== END OF INPUTS ==========
 
