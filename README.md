@@ -6,7 +6,7 @@ OHDSI Evidence Network
 - Analytics use case(s): **Characterization**
 - Study type: **Methods Research**
 - Tags: **Evidence Network**
-- Study lead: **CLair Blacketer**
+- Study lead: **Clair Blacketer**
 - Study lead forums tag: **[Clair Blacketer](https://forums.ohdsi.org/u/clairblacketer)**
 - Study start date: **[June 11, 2024](https://youtu.be/gudHWsaMArg)**
 - Study end date: **-**
