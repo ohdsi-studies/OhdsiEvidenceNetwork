@@ -1,4 +1,4 @@
-[OHDSI Evidence Network]
+OHDSI Evidence Network
 =============
 
 <img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started"> 
