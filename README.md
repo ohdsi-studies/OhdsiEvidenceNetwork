@@ -162,17 +162,17 @@ executing the database profile function at the end of  `codeToRun.R` script.
 ```r
 # execute the database profile function
 DbDiagnostics::executeDbProfile(connectionDetails = connectionDetails,
-								cdmDatabaseSchema = cdmDatabaseSchema,
-								resultsDatabaseSchema = resultsDatabaseSchema,
-								writeTo = writeTo,
-								vocabDatabaseSchema = vocabDatabaseSchema,
-								cdmSourceName = cdmSourceName,
-								outputFolder = outputFolder,
-								cdmVersion = cdmVersion,
-								appendAchilles = appendAchilles,
-								roundTo = roundTo,
-								excludedConcepts = excludedConcepts,
-								addDQD = addDQD
+					cdmDatabaseSchema = cdmDatabaseSchema,
+					resultsDatabaseSchema = resultsDatabaseSchema,
+					writeTo = writeTo,
+				    vocabDatabaseSchema = vocabDatabaseSchema,
+					cdmSourceName = cdmSourceName,
+					outputFolder = outputFolder,
+					cdmVersion = cdmVersion,
+					appendAchilles = appendAchilles,
+					roundTo = roundTo,
+					excludedConcepts = excludedConcepts,
+					addDQD = addDQD
 )
 ```
 ## Sharing Results
